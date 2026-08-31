@@ -16,9 +16,9 @@ An interactive dashboard designed to analyze store and category sales performanc
  4. Run the notebook file (.ipynb) using Jupyter Notebook or Google Colab.
  5. Explore the resulting dashboard and visualizations.
 
-Tools ##
+## Tools
 Python, pandas, matplotlib, Plotly, Google Colab
 
 ## Training Program
  This project was executed as part of the "Data Visualization and Storytelling" course (SDA-DSC-112) at SDAIA Academy.
-Instructor: Eng. Faisal Alwadie
+Trainer: Eng. Faisal Alwadie
