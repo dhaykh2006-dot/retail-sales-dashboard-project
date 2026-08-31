@@ -9,14 +9,14 @@
 ## **Data Used:**
  Retail Sales Dataset provided as part of the "Data Visualization and Storytelling" course (SDA-DSC-112) at SDAIA Academy.
 
-## ** How to Run the Project:**
+## **How to Run the Project:**
 1. Download all project files (notebook, dataset, dashboard). 
 2. Make sure retail_sales.csv is in the same folder as the notebook. 
 3. Install the required libraries: pip install pandas plotly
  4. Run the notebook file (.ipynb) using Jupyter Notebook or Google Colab.
  5. Explore the resulting dashboard and visualizations.
 
-##** Tools:**
+## **Tools:**
 Python, pandas, matplotlib, Plotly, Google Colab
 
 ## **Training Program:**
