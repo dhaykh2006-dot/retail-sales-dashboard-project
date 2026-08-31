@@ -21,4 +21,6 @@ Python, pandas, matplotlib, Plotly, Google Colab
 
 ## Training Program
  This project was executed as part of the "Data Visualization and Storytelling" course (SDA-DSC-112) at SDAIA Academy.
+
+
 Trainer: Eng. Faisal Alwadie
